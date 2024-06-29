@@ -1,5 +1,5 @@
 # Directory Breaker
-TL;DR Directory Breaker is a Python Directory Traversal Fuzzing Tool. It Checks whether a website is vulnerable to dot-dot-slash attacks.
+TL;DR Directory Breaker is a Python Directory Traversal Fuzzing Tool. It checks whether a website is vulnerable to dot-dot-slash attacks.
 
 ## Benchmark
 Labs that got tested to confirm the tool's effectiveness:
